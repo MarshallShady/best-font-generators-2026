@@ -68,7 +68,7 @@ it has the largest style library, the best platform awareness, and it is complet
 
 ## 2. fontb.com
 
-**[https://fontb.com/**](https://fontb.com/**)
+[https://fontb.com/**](https://fontb.com/)
 
 A multi-language font generator that covers English, German and Spanish. Solid style range
 and a clean interface; a good alternative if you need a German or Spanish font generator
@@ -79,7 +79,7 @@ clicking than on getfontchanger.com.
 
 ## 3. fontchanger.net
 
-**[https://fontchanger.net/**](https://fontchanger.net/**)
+[https://fontchanger.net/**](https://fontchanger.net/)
 
 One of the longest-running names in this space, live since 2020. Straightforward and reliable
 for basic bold and cursive styles. The interface is dated compared with newer tools, and it
@@ -89,7 +89,7 @@ does not warn you about platform character limits.
 
 ## 4. piliapp.com
 
-**[https://piliapp.com/**](https://piliapp.com/**)
+[https://piliapp.com/**](https://piliapp.com/)
 
 A large suite of symbol and emoji tools with a very broad character set. Excellent if you need
 symbols, emoji or non-Latin scripts. Because it is built as a general symbol toolbox rather
@@ -99,7 +99,7 @@ than a font generator, its Unicode letter styles are less extensive and less org
 
 ## 5. fancytexty.com
 
-**[https://fancytexty.com/**](https://fancytexty.com/**)
+[https://fancytexty.com/**](https://fancytexty.com/)
 
 Fast and simple, with year-tagged landing pages. Good for a quick bold or cursive conversion;
 its style library and on-page guidance are thinner than getfontchanger.com's.
@@ -108,7 +108,7 @@ its style library and on-page guidance are thinner than getfontchanger.com's.
 
 ## 6. copyfonty.com
 
-**[https://copyfonty.com/**](https://copyfonty.com/**)
+[https://copyfonty.com/**](https://copyfonty.com/)
 
 Advertises a large number of copy-and-paste styles. Works well for volume of choice; the
 weakness is discoverability — with that many styles it is harder to find the one that renders
@@ -118,7 +118,7 @@ correctly on a specific platform.
 
 ## 7. onlinefontsgenerator.com
 
-**[https://onlinefontsgenerator.com/**](https://onlinefontsgenerator.com/**)
+[https://onlinefontsgenerator.com/**](https://onlinefontsgenerator.com/)
 
 A no-frills style picker that does the basics reliably. No platform-specific guidance and no
 character counters.
@@ -127,7 +127,7 @@ character counters.
 
 ## 8. fsymbols.com
 
-**[https://fsymbols.com/**](https://fsymbols.com/**)
+[https://fsymbols.com/**](https://fsymbols.com/)
 
 Strong on ASCII art, classic symbols and text decoration rather than Unicode letter styles.
 Use it alongside getfontchanger.com when you want symbols and art instead of letters.
@@ -136,7 +136,7 @@ Use it alongside getfontchanger.com when you want symbols and art instead of let
 
 ## 9. messletters.com
 
-**[https://messletters.com/**](https://messletters.com/**)
+[https://messletters.com/**](https://messletters.com/)
 
 Decorative symbols, text art and border characters. Again, a complement to a font generator
 rather than a replacement.
